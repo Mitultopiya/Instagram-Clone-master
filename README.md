@@ -2,7 +2,7 @@
 
 Instagram Clone (Both frontend and backend) created with Flutter and Firebase.
 
-[![Say Thanks!](https://img.shields.io/badge/Say%20Thanks-!-1EAEDB.svg)](https://saythanks.io/to/mohak1283)
+[![Say Thanks!](https://img.shields.io/badge/Say%20Thanks-!-1EAEDB.svg)]
 
 ## Show some :heart: and star the repo to support the project.
 
@@ -57,7 +57,6 @@ This repository is still under development and I will continue to add more featu
 #### 2. Clone the repo
 
 ```sh
-$ git clone https://github.com/mohak1283/Instagram-Clone
 $ cd Instagram-Clone/
 ```
 
@@ -117,12 +116,6 @@ Double check install instructions for both
  -  Stories
  -  Send post to chats
  
- ## Questions?🤔
- 
- Hit me on
- 
-<a href="https://twitter.com/mohak_gupta20"><img src="https://user-images.githubusercontent.com/35039342/55471524-8e24cb00-5627-11e9-9389-58f3d4419153.png" width="60"></a>
-<a href="https://www.linkedin.com/in/mohak-gupta-885669131/"><img src="https://user-images.githubusercontent.com/35039342/55471530-94b34280-5627-11e9-8c0e-6fe86a8406d6.png" width="60"></a>
 
 
 ## How to Contribute
@@ -134,7 +127,7 @@ Double check install instructions for both
 
 ## License
 
-    Copyright (c) 2019 Mohak Gupta
+    Copyright (c) 2023 Mitul topiya
     
     Permission is hereby granted, free of charge, to any person obtaining a copy of this software and associated documentation files (the "Software"), to deal in the Software without restriction, including without limitation the rights to use, copy, modify, merge, publish, distribute, sublicense, and/or sell copies of the Software, and to permit persons to whom the Software is furnished to do so, subject to the following conditions:
     
